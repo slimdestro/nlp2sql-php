@@ -1,0 +1,8 @@
+{
+    "minimum-stability": "dev",
+    "require": {
+        "openai/sdk": "^0.6.0",
+        "phpdotenv/phpdotenv": "^5.4.0",
+        "doctrine/dbal": "^3.3.3"
+    }
+}
